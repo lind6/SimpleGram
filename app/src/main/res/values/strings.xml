@@ -4,5 +4,7 @@
     <string name="back4app_server_url">https://parseapi.back4app.com/</string>
     <!-- Paste BOTH strings as required -->
     <string name="back4app_app_id">a3WTyTpP5zv8e5JLendQoxaHeXjfkCFiERxt9mUq</string> <!-- back4app parse API application ID, unique per app -->
-    <string name="back4app_client_key">nBqHYDhvSuMBbXeREVglHzTPzE3azCHuzdo5zF68</string> <!-- back4app parse API client key, unique per app -->
+    <string name="back4app_client_key">nBqHYDhvSuMBbXeREVglHzTPzE3azCHuzdo5zF68</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string> <!-- back4app parse API client key, unique per app -->
 </resources>
